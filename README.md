@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **beginner projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/c-Fancy](https://github.com/c-Fancy)
-
 - 📫 How to reach me **chad.fancy@outlook.com**
 
 - ⚡ Fun fact **I like to go to Coffee Shops☕**
