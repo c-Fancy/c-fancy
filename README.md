@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-fancy&label=Profile%20views&color=0e75b6&style=flat" alt="c-fancy" /> </p>
 
-- 🔭 I’m currently working on **assignments**
+- 🔭 I’m currently working on **Assignments**
 
-- 🌱 I’m currently learning **C#, JavaScript, SQL**
+- 🌱 I’m currently learning **C#, JavaScript, and SQL**
 
-- 👯 I’m looking to collaborate on **beginner projects**
+- 👯 I’m looking to collaborate on **Beginner projects**
 
 - 📫 How to reach me **chad.fancy@outlook.com**
 
-- ⚡ Fun fact **I like to go to Coffee Shops☕**
+- ⚡ Fun fact **I like Coffee and going to Coffee Shops☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
